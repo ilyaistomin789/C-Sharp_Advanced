@@ -1,0 +1,12 @@
+D:\Visual Studio 2019\OOP(C#)\2SEM\OOP_LAB_4\OOP_LAB_4\bin\Debug\OOP_LAB_4.exe.config
+D:\Visual Studio 2019\OOP(C#)\2SEM\OOP_LAB_4\OOP_LAB_4\bin\Debug\OOP_LAB_4.exe
+D:\Visual Studio 2019\OOP(C#)\2SEM\OOP_LAB_4\OOP_LAB_4\bin\Debug\OOP_LAB_4.pdb
+D:\Visual Studio 2019\OOP(C#)\2SEM\OOP_LAB_4\OOP_LAB_4\obj\Debug\OOP_LAB_4.csprojAssemblyReference.cache
+D:\Visual Studio 2019\OOP(C#)\2SEM\OOP_LAB_4\OOP_LAB_4\obj\Debug\OOP_LAB_4.TextСalculator.resources
+D:\Visual Studio 2019\OOP(C#)\2SEM\OOP_LAB_4\OOP_LAB_4\obj\Debug\OOP_LAB_4.Properties.Resources.resources
+D:\Visual Studio 2019\OOP(C#)\2SEM\OOP_LAB_4\OOP_LAB_4\obj\Debug\OOP_LAB_4.csproj.GenerateResource.cache
+D:\Visual Studio 2019\OOP(C#)\2SEM\OOP_LAB_4\OOP_LAB_4\obj\Debug\OOP_LAB_4.exe
+D:\Visual Studio 2019\OOP(C#)\2SEM\OOP_LAB_4\OOP_LAB_4\obj\Debug\OOP_LAB_4.pdb
+D:\Visual Studio 2019\OOP(C#)\2SEM\OOP_LAB_4\OOP_LAB_4\obj\Debug\OOP_LAB_4.Operation_Replace.resources
+D:\Visual Studio 2019\OOP(C#)\2SEM\OOP_LAB_4\OOP_LAB_4\obj\Debug\OOP_LAB_4.Operation_Delete.resources
+D:\Visual Studio 2019\OOP(C#)\2SEM\OOP_LAB_4\OOP_LAB_4\obj\Debug\OOP_LAB_4.Operation_SymbolOf.resources

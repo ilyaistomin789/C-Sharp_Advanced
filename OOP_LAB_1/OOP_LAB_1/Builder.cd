@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="OOP_LAB_1.Builder.Builder" Collapsed="true">
+    <Position X="6" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAgABAAAACAAAEAAAAAAAAA=</HashCode>
+      <FileName>Builder\Builder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_LAB_1.Builder.ConcreteBuilder" Collapsed="true">
+    <Position X="6" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAABIAAAAAAAAAAAAAAAgABAAAACAAAEAAAAAAAAA=</HashCode>
+      <FileName>Builder\ConcreteBuilder.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="ItCompany" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="OOP_LAB_1.Builder.ItCompany" Collapsed="true">
+    <Position X="2.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>Builder\ItCompany.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_LAB_1.Builder.Director" Collapsed="true">
+    <Position X="2.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAACAAAAAAAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Builder\Director.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

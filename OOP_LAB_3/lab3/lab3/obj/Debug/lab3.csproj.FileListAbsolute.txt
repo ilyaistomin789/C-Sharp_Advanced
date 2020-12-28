@@ -1,0 +1,13 @@
+D:\4 семестр\ООП\lab3\lab3\lab3\bin\Debug\lab3.exe.config
+D:\4 семестр\ООП\lab3\lab3\lab3\bin\Debug\lab3.exe
+D:\4 семестр\ООП\lab3\lab3\lab3\bin\Debug\lab3.pdb
+D:\4 семестр\ООП\lab3\lab3\lab3\obj\Debug\lab3.csprojAssemblyReference.cache
+D:\4 семестр\ООП\lab3\lab3\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+D:\4 семестр\ООП\lab3\lab3\lab3\obj\Debug\lab3.exe
+D:\4 семестр\ООП\lab3\lab3\lab3\obj\Debug\lab3.pdb
+D:\Visual Studio 2019\OOP(C#)\2SEM\lab3\lab3\lab3\bin\Debug\lab3.exe.config
+D:\Visual Studio 2019\OOP(C#)\2SEM\lab3\lab3\lab3\bin\Debug\lab3.exe
+D:\Visual Studio 2019\OOP(C#)\2SEM\lab3\lab3\lab3\bin\Debug\lab3.pdb
+D:\Visual Studio 2019\OOP(C#)\2SEM\lab3\lab3\lab3\obj\Debug\lab3.csprojAssemblyReference.cache
+D:\Visual Studio 2019\OOP(C#)\2SEM\lab3\lab3\lab3\obj\Debug\lab3.exe
+D:\Visual Studio 2019\OOP(C#)\2SEM\lab3\lab3\lab3\obj\Debug\lab3.pdb

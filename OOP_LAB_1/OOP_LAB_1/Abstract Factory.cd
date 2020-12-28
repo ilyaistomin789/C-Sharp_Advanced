@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OOP_LAB_1.Abstract_Factory.WarriorFactory" Collapsed="true">
+    <Position X="7" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Abstract Factory\WarriorFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_LAB_1.Abstract_Factory.Warriors.ChainMailAxeWarrior" Collapsed="true">
+    <Position X="3.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Abstract Factory\Warriors\ChainMailAxeWarrior.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_LAB_1.Abstract_Factory.Warriors.ChainMailKnifeWarrior" Collapsed="true">
+    <Position X="6" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Abstract Factory\Warriors\ChainMailKnifeWarrior.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_LAB_1.Abstract_Factory.Warriors.MetalAxeWarrior" Collapsed="true">
+    <Position X="8.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Abstract Factory\Warriors\MetalAxeWarrior.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_LAB_1.Abstract_Factory.Warriors.MetalKnifeWarrior" Collapsed="true">
+    <Position X="10.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Abstract Factory\Warriors\MetalKnifeWarrior.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_LAB_1.Abstract_Factory.Armour" Collapsed="true">
+    <Position X="4.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Abstract Factory\Armour.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_LAB_1.Abstract_Factory.ChainMailArmour" Collapsed="true">
+    <Position X="3.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAACAAAAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Abstract Factory\ChainMailArmour.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_LAB_1.Abstract_Factory.MetalArmour" Collapsed="true">
+    <Position X="5.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAACAAAAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Abstract Factory\MetalArmour.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_LAB_1.Abstract_Factory.Weapon" Collapsed="true">
+    <Position X="9.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Abstract Factory\Weapon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_LAB_1.Abstract_Factory.Knife" Collapsed="true">
+    <Position X="8.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAADAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Abstract Factory\Knife.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_LAB_1.Abstract_Factory.OneHandedAxe" Collapsed="true">
+    <Position X="10.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAADAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Abstract Factory\OneHandedAxe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_LAB_1.Abstract_Factory.Warrior">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAgBAAAAAAAAgAAAIAAAACAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Abstract Factory\Warrior.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="WarriorFactory" />
+      <Property Name="Armour" />
+      <Property Name="Weapon" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

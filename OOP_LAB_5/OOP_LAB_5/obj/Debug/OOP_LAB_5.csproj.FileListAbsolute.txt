@@ -1,0 +1,17 @@
+D:\Visual Studio 2019\OOP(C#)\2SEM\OOP_LAB_5\OOP_LAB_5\bin\Debug\OOP_LAB_5.exe.config
+D:\Visual Studio 2019\OOP(C#)\2SEM\OOP_LAB_5\OOP_LAB_5\bin\Debug\OOP_LAB_5.exe
+D:\Visual Studio 2019\OOP(C#)\2SEM\OOP_LAB_5\OOP_LAB_5\bin\Debug\OOP_LAB_5.pdb
+D:\Visual Studio 2019\OOP(C#)\2SEM\OOP_LAB_5\OOP_LAB_5\obj\Debug\OOP_LAB_5.csprojAssemblyReference.cache
+D:\Visual Studio 2019\OOP(C#)\2SEM\OOP_LAB_5\OOP_LAB_5\obj\Debug\OOP_LAB_5.DisciplineForm.resources
+D:\Visual Studio 2019\OOP(C#)\2SEM\OOP_LAB_5\OOP_LAB_5\obj\Debug\OOP_LAB_5.Properties.Resources.resources
+D:\Visual Studio 2019\OOP(C#)\2SEM\OOP_LAB_5\OOP_LAB_5\obj\Debug\OOP_LAB_5.csproj.GenerateResource.cache
+D:\Visual Studio 2019\OOP(C#)\2SEM\OOP_LAB_5\OOP_LAB_5\obj\Debug\OOP_LAB_5.exe
+D:\Visual Studio 2019\OOP(C#)\2SEM\OOP_LAB_5\OOP_LAB_5\obj\Debug\OOP_LAB_5.pdb
+D:\Visual Studio 2019\OOP(C#)\2SEM\OOP_LAB_5\OOP_LAB_5\bin\Debug\Newtonsoft.Json.dll
+D:\Visual Studio 2019\OOP(C#)\2SEM\OOP_LAB_5\OOP_LAB_5\bin\Debug\Newtonsoft.Json.xml
+D:\Visual Studio 2019\OOP(C#)\2SEM\OOP_LAB_5\OOP_LAB_5\obj\Debug\OOP_LAB_5.csproj.CopyComplete
+D:\Visual Studio 2019\OOP(C#)\2SEM\OOP_LAB_5\OOP_LAB_5\bin\Debug\System.Management.dll
+D:\Visual Studio 2019\OOP(C#)\2SEM\OOP_LAB_5\OOP_LAB_5\bin\Debug\System.Management.Instrumentation.dll
+D:\Visual Studio 2019\OOP(C#)\2SEM\OOP_LAB_5\OOP_LAB_5\obj\Debug\OOP_LAB_5.AboutForm.resources
+D:\Visual Studio 2019\OOP(C#)\2SEM\OOP_LAB_5\OOP_LAB_5\obj\Debug\OOP_LAB_5.SearchForm.resources
+D:\Visual Studio 2019\OOP(C#)\2SEM\OOP_LAB_5\OOP_LAB_5\obj\Debug\OOP_LAB_5.SortForm.resources

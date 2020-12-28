@@ -1,0 +1,6 @@
+D:\Visual Studio 2019\OOP(C#)\2SEM\OOP_LAB_2\OOP_LAB_2\bin\Debug\OOP_LAB_2.exe.config
+D:\Visual Studio 2019\OOP(C#)\2SEM\OOP_LAB_2\OOP_LAB_2\bin\Debug\OOP_LAB_2.exe
+D:\Visual Studio 2019\OOP(C#)\2SEM\OOP_LAB_2\OOP_LAB_2\bin\Debug\OOP_LAB_2.pdb
+D:\Visual Studio 2019\OOP(C#)\2SEM\OOP_LAB_2\OOP_LAB_2\obj\Debug\OOP_LAB_2.csprojAssemblyReference.cache
+D:\Visual Studio 2019\OOP(C#)\2SEM\OOP_LAB_2\OOP_LAB_2\obj\Debug\OOP_LAB_2.exe
+D:\Visual Studio 2019\OOP(C#)\2SEM\OOP_LAB_2\OOP_LAB_2\obj\Debug\OOP_LAB_2.pdb

@@ -1,0 +1,39 @@
+﻿<Window x:Class="OOP_LAB_12.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:OOP_LAB_12"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="900">
+    <Grid>
+        <TextBox x:Name="SmartphoneId" HorizontalAlignment="Left" Height="23" Margin="48,76,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="SmartphoneName" HorizontalAlignment="Left" Height="23" Margin="48,118,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="YearOfIssue" HorizontalAlignment="Left" Height="23" Margin="48,167,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="Cost" HorizontalAlignment="Left" Height="23" Margin="48,211,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <ComboBox x:Name="ProviderIdCombo" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Margin="48,257,0,0"/>
+
+
+        <TextBox x:Name="ProviderId" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120" Margin="664,76,0,0"/>
+        <TextBox x:Name="ProviderName" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120" Margin="664,118,0,0"/>
+        <TextBox x:Name="ProviderLocation" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120" Margin="664,153,0,0"/>
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="Smartphone" VerticalAlignment="Top" Margin="79,33,0,0"/>
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="Provider" VerticalAlignment="Top" Margin="688,33,0,0"/>
+        <Button x:Name="CreateButton" Content="Create" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="48,321,0,0" Click="CreateButton_OnClick"/>
+        <Button x:Name="ReadButton" Content="Read" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="146,321,0,0" Click="ReadButton_OnClick"/>
+        <Button x:Name="UpdateButton" Content="Update" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="248,321,0,0" Click="UpdateButton_OnClick"/>
+        <Button x:Name="DeleteButton" Content="Delete" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="354,321,0,0" Click="DeleteButton_OnClick"/>
+        <Button x:Name="RestartButton" Content="Restart" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="48,374,0,0"/>
+        <Button x:Name="CreateProviderButton" Content="Create Provider" HorizontalAlignment="Left" VerticalAlignment="Top" Width="96" Margin="676,196,0,0" Click="CreateProviderButton_OnClick"/>
+        <DataGrid x:Name="dg_Smartphones" AutoGenerateColumns="False" HorizontalAlignment="Left" Height="158" Margin="275,76,0,0" VerticalAlignment="Top" Width="309" SelectionChanged="Dg_Smartphones_OnSelectionChanged">
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding SmartphoneId}" Width="50"/>
+                <DataGridTextColumn Binding="{Binding SmartphoneName}" Width="100"/>
+                <DataGridTextColumn Binding="{Binding YearOfIssue}" Width="50"/>
+                <DataGridTextColumn Binding="{Binding Cost}" Width="50"/>
+                <DataGridTextColumn Binding="{Binding ProviderId}" Width="50"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+    </Grid>
+</Window>
